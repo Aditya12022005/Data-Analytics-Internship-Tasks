@@ -1,4 +1,4 @@
-# Task 1 : Retail Sales Exploratory Data Analysis (EDA)
+# Task 1(Level 1) : Retail Sales Exploratory Data Analysis (EDA)
 
 ## Project Overview
 This project performs Exploratory Data Analysis (EDA) on a retail sales dataset to identify sales trends, customer behavior, and product performance.
