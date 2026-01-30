@@ -1,4 +1,4 @@
-# Task 2: Customer Segmentation Analysis
+# Task 2(Level 1): Customer Segmentation Analysis
 
 ## Project Description
 This project performs customer segmentation analysis for an e-commerce company using K-Means clustering. Customers are grouped based on income, purchase behavior, and recency to support targeted marketing strategies.
