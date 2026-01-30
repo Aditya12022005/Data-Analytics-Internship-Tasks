@@ -1,4 +1,4 @@
-# Level 2 (Task 4):House Price Prediction Using Linear Regression
+# Task 4(Level 2):House Price Prediction Using Linear Regression
 
 This project builds a Linear Regression model to predict house prices based on property features.
 
