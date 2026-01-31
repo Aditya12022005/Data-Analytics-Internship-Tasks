@@ -1,4 +1,4 @@
-# Task 1(Level 1) : Retail Sales Exploratory Data Analysis (EDA)
+# OIBSIP_Data_Analytics_taskno1 : Retail Sales Exploratory Data Analysis (EDA)
 
 ## Project Overview
 This project performs Exploratory Data Analysis (EDA) on a retail sales dataset to identify sales trends, customer behavior, and product performance.
